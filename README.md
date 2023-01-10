@@ -13,5 +13,8 @@ https://wikiwiki.jp/nanj-adguard/を参考にしています。
 
 ## ikagadesitaka.txt
 自分が気になった低品質サイトのリストです。
-いわゆる”いかがでしたかブログ”対策は、基本的にはhttps://web-blacklist.netlify.app/url.txtで事足りますが、
+
+いわゆる”いかがでしたかブログ”対策は、基本的にはhttps://web-blacklist.netlify.app/url.txt
+で事足りますが、
+
 自分のインターネット利用傾向に向けて更に追加の個別対策を施すものです。要は*私怨*です。
