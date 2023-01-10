@@ -6,7 +6,8 @@
 詳細はpersonal blogを参照してください。
  
 ## matome.txt
-https://wikiwiki.jp/nanj-adguard/を参考にしています。
+https://wikiwiki.jp/nanj-adguard/
+を参考にしています。
 
 ## Celebrity.txt
 （特に女性）芸能人の情報を偶然でも目に入れたくなかったので自作したフィルタです。
